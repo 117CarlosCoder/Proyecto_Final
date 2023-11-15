@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-11-15T16:50:23.399Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aohYk8GZ_gML2n9O4DkE" version="22.1.1" type="device">
+  <diagram name="Página-1" id="8pkTsCHpIrCntF8Rfbdk">
+    <mxGraphModel dx="1112" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-1" value="Sitema de Base de datos" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="440" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-2" value="AdminDB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-1">
+          <mxGeometry width="80" height="80" relative="1" as="geometry">
+            <mxPoint x="30" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-5" value="ApplicantDB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-1">
+          <mxGeometry x="120" y="49.99818181818181" width="100" height="90.90909090909089" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-7" value="CargaDB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-1">
+          <mxGeometry x="230" y="49.99818181818181" width="80" height="90.90909090909089" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-8" value="EmployerDB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-1">
+          <mxGeometry x="330" y="49.99818181818181" width="80" height="90.90909090909089" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-9" value="SessionDB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-1">
+          <mxGeometry x="30" y="149.00090909090906" width="80" height="90.90909090909089" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-10" value="UserDB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-1">
+          <mxGeometry x="120" y="149.0009090909091" width="80" height="90.90909090909089" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-11" value="Servicios Backend" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="440" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-12" value="AdminServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="20" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-13" value="ApplicantServides" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry x="130" y="50" width="110" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-14" value="CargaDatosServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry x="250" y="50" width="130" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-15" value="UserServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry x="275" y="149" width="95" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-16" value="EmployerServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry x="20" y="149" width="120" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-17" value="SessionServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry x="160" y="149" width="105" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-18" value="Controladores Backend" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="40" width="450" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=440;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kc4GnB3cp-pwxv6CqlEk-1" target="kc4GnB3cp-pwxv6CqlEk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=130;entryDy=450;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kc4GnB3cp-pwxv6CqlEk-11" target="kc4GnB3cp-pwxv6CqlEk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-27" value="Servicios Frontend" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="40" width="460" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kc4GnB3cp-pwxv6CqlEk-18" target="kc4GnB3cp-pwxv6CqlEk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-47" value="AdminController" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="90.09" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-48" value="ApplicantController" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="90.09" width="129" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-49" value="EmployerController" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="90.09" width="130" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-51" value="SessionController" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="189.09" width="120" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-52" value="UserController" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="189.09" width="105" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-53" value="AdminServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="80" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-54" value="EmpleadroServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="80" width="130" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-55" value="ActualizarNavbarService" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="80" width="145" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-57" value="SolicitnateServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="179" width="120" height="90.91" as="geometry" />
+        </mxCell>
+        <mxCell id="kc4GnB3cp-pwxv6CqlEk-58" value="UsuarioServices" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="179" width="105" height="90.91" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
